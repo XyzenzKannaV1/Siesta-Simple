@@ -23,7 +23,7 @@
     "chalk": "2.4.1", 
     "image-to-base64": "^2.1.1",
     "@trufflesuite/spinnies":"^0.1.1",
-    "chalk-animation": "^1.6.0",
+    "chalk-animation": "^2.0.3",
     "colors": "^1.4.0",
     "image-to-base64": "^2.1.1",
     "phone": "^3.1.28",
